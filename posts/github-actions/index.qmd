@@ -20,4 +20,5 @@ I think the error was in the github actions side not the s3 side.
   + and again. having trouble getting s3 and route 53 to play nice
   + and again but i reformatted my lists at least
   + but we keep deploying to fix s3 issues
+  + and again
   
