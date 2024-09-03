@@ -1,0 +1,23 @@
+---
+title: "Hello World"
+author: "Joe McGill"
+date: "2024-09-03"
+categories: [news,intro]
+editor: visual
+---
+
+### Hello world, its me joe!
+
+OK great, got the classic computing/Judy Blume joke out of my system.
+
+So what are we doing here? *Blogging* I have been tinkering with these computer things for a long time and have avoided this whole thing. 
+
+Now that blogging is passe, I figure it is a good time to start.
+
+### Why Now?
+
+Well, I have been using R and Python for a long time and playing with Dash and Shiny and JS but have never really structured my approach. I was at the Posit conference this year and decided to get a bit more into some of the front end things that I enjoy playing with and a blog might be a way to keep it on track.
+
+### How are you doing this????
+
+I know, pretty magical right? In reality I am using Quarto's blog platform/git/AWS s3 buckets. Well not yet, I am writing this one in a text editor locally with the intention of putting it on the big scary internet. If you are reading this, i have probably suceeded ... but I am sure I will post about that if I keep this going.
