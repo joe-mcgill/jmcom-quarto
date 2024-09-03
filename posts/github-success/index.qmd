@@ -1,8 +1,8 @@
 ---
-title: "the arcane world of github actions"
+title: "Slaying the dragon of github actions"
 author: "Joe McGill"
 date: "2024-09-03"
-categories: [news,quarto,github actions,]
+categories: [news,quarto,github actions]
 editor: visual
 ---
 
