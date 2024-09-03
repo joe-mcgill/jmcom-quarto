@@ -14,8 +14,8 @@ github actions are weird at first glance. maybe this all worked
 
 I think the error was in the github actions side not the s3 side.
 
-*I guess I might as well start a list since this will require multiple testing commits
-+ Here is the first nonsense commit
-+ Try two. I switched the site into the root of the bucket. but I forgot to render the whole quarto
-+ and again. having trouble getting s3 and route 53 to play nice
-+ and again but i reformatted my lists at least
+* I guess I might as well start a list since this will require multiple testing commits
+  + Here is the first nonsense commit
+  + Try two. I switched the site into the root of the bucket. but I forgot to render the whole quarto
+  + and again. having trouble getting s3 and route 53 to play nice
+  + and again but i reformatted my lists at least

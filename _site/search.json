@@ -18,7 +18,7 @@
     "href": "posts/github-actions/index.html",
     "title": "the arcane world of github actions",
     "section": "",
-    "text": "Did this work\ngithub actions are weird at first glance. maybe this all worked\n\n\nIt did not\nI think the error was in the github actions side not the s3 side.\n*I guess I might as well start a list since this will require multiple testing commits + Here is the first nonsense commit + Try two. I switched the site into the root of the bucket. but I forgot to render the whole quarto + and again. having trouble getting s3 and route 53 to play nice + and again but i reformatted my lists at least"
+    "text": "Did this work\ngithub actions are weird at first glance. maybe this all worked\n\n\nIt did not\nI think the error was in the github actions side not the s3 side.\n\nI guess I might as well start a list since this will require multiple testing commits\n\nHere is the first nonsense commit\nTry two. I switched the site into the root of the bucket. but I forgot to render the whole quarto\nand again. having trouble getting s3 and route 53 to play nice\nand again but i reformatted my lists at least"
   },
   {
     "objectID": "posts/hello_world/index.html",
