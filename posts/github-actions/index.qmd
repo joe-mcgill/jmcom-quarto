@@ -9,3 +9,7 @@ editor: visual
 ### Did this work
 
 github actions are weird at first glance. maybe this all worked
+
+### It did not
+
+I think the error was in the github actions side not the s3 side.
