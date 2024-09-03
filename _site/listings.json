@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/hello_world/index.html",
+      "/posts/github-actions/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]

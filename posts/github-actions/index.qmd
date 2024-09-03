@@ -16,3 +16,4 @@ I think the error was in the github actions side not the s3 side.
 
 I guess I might as well start a list since this will require multiple testing commits
 - Here is the first nonsense commit
+- Try two. I switched the site i nto the root of the bucket. but I forgot to render the whole quarto
