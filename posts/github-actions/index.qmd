@@ -13,3 +13,6 @@ github actions are weird at first glance. maybe this all worked
 ### It did not
 
 I think the error was in the github actions side not the s3 side.
+
+I guess I might as well start a list since this will require multiple testing commits
+- Here is the first nonsense commit
