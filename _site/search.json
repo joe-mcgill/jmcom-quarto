@@ -14,11 +14,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/github-actions/index.html",
-    "href": "posts/github-actions/index.html",
+    "objectID": "posts/github-success/index.html",
+    "href": "posts/github-success/index.html",
     "title": "the arcane world of github actions",
     "section": "",
-    "text": "Did this work\ngithub actions are weird at first glance. maybe this all worked\n\n\nIt did not\nI think the error was in the github actions side not the s3 side.\n\nI guess I might as well start a list since this will require multiple testing commits\n\nHere is the first nonsense commit\nTry two. I switched the site into the root of the bucket. but I forgot to render the whole quarto\nand again. having trouble getting s3 and route 53 to play nice\nand again but i reformatted my lists at least\nbut we keep deploying to fix s3 issues\nand again"
+    "text": "Did this work\ngithub actions are weird at first glance. maybe this all worked\n\n\nyes it did!!!!!!\n\n\n\nWahoo Fireworks Party"
   },
   {
     "objectID": "posts/hello_world/index.html",
@@ -26,6 +26,13 @@
     "title": "Hello World",
     "section": "",
     "text": "Hello world, its me joe!\nOK great, got the classic computing/Judy Blume joke out of my system.\nSo what are we doing here? Blogging I have been tinkering with these computer things for a long time and have avoided this whole thing.\nNow that blogging is passe, I figure it is a good time to start.\n\n\nWhy Now?\nWell, I have been using R and Python for a long time and playing with Dash and Shiny and JS but have never really structured my approach. I was at the Posit conference this year and decided to get a bit more into some of the front end things that I enjoy playing with and a blog might be a way to keep it on track.\n\n\nHow are you doing this????\nI know, pretty magical right? In reality I am using Quarto’s blog platform/git/AWS s3 buckets. Well not yet, I am writing this one in a text editor locally with the intention of putting it on the big scary internet. If you are reading this, i have probably suceeded … but I am sure I will post about that if I keep this going."
+  },
+  {
+    "objectID": "posts/github-actions/index.html",
+    "href": "posts/github-actions/index.html",
+    "title": "the arcane world of github actions",
+    "section": "",
+    "text": "Did this work\ngithub actions are weird at first glance. maybe this all worked\n\n\nIt did not\nI think the error was in the github actions side not the s3 side.\n\nI guess I might as well start a list since this will require multiple testing commits\n\nHere is the first nonsense commit\nTry two. I switched the site into the root of the bucket. but I forgot to render the whole quarto\nand again. having trouble getting s3 and route 53 to play nice\nand again but i reformatted my lists at least\nbut we keep deploying to fix s3 issues\nand again"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -39,6 +46,6 @@
     "href": "index.html",
     "title": "qblog",
     "section": "",
-    "text": "Hello World\n\n\n\n\n\n\nnews\n\n\nintro\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nJoe McGill\n\n\n\n\n\n\n\n\n\n\n\n\nthe arcane world of github actions\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\ngithub actions\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nJoe McGill\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 31, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World\n\n\n\n\n\n\nnews\n\n\nintro\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nJoe McGill\n\n\n\n\n\n\n\n\n\n\n\n\nthe arcane world of github actions\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\ngithub actions\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nJoe McGill\n\n\n\n\n\n\n\n\n\n\n\n\nthe arcane world of github actions\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\ngithub actions\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nJoe McGill\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 31, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]

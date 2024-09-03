@@ -1,0 +1,15 @@
+---
+title: "the arcane world of github actions"
+author: "Joe McGill"
+date: "2024-09-03"
+categories: [news,quarto,github actions,]
+editor: visual
+---
+
+### Did this work
+
+github actions are weird at first glance. maybe this all worked
+
+### yes it did!!!!!!
+
+![Wahoo Fireworks Party](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAzb2FncHpieDV3MDBhcjFtbHp5dmtwdGpneHE2czhtN3poNmh6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W2Fbe4nWDJIWvoubaR/giphy.gif)
